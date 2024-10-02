@@ -1,0 +1,1 @@
+This project focuses on classifying various functionalities in an Integrated Development Environment (IDE) based on user intent using Random Forest, a robust ensemble machine learning algorithm. The goal of this project is to accurately identify the user's intent behind different IDE operations, optimizing the user experience by predicting and automating specific actions.
